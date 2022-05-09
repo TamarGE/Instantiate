@@ -337,6 +337,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   objectToClone: {fileID: 2993817017711793255, guid: 2422922e53bf0444b92195e84f9c5591,
     type: 3}
+  num: 4
 --- !u!4 &401943061
 Transform:
   m_ObjectHideFlags: 0
